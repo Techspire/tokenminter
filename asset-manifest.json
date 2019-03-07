@@ -1,13 +1,13 @@
 {
   "main.css": "/tokenminter/static/css/main.e09db4f9.chunk.css",
-  "main.js": "/tokenminter/static/js/main.190e8cbb.chunk.js",
-  "main.js.map": "/tokenminter/static/js/main.190e8cbb.chunk.js.map",
+  "main.js": "/tokenminter/static/js/main.1d0f8281.chunk.js",
+  "main.js.map": "/tokenminter/static/js/main.1d0f8281.chunk.js.map",
   "runtime~main.js": "/tokenminter/static/js/runtime~main.92d3d131.js",
   "runtime~main.js.map": "/tokenminter/static/js/runtime~main.92d3d131.js.map",
   "static/js/2.4ccfcde8.chunk.js": "/tokenminter/static/js/2.4ccfcde8.chunk.js",
   "static/js/2.4ccfcde8.chunk.js.map": "/tokenminter/static/js/2.4ccfcde8.chunk.js.map",
   "index.html": "/tokenminter/index.html",
-  "precache-manifest.95a41e0bd2db6ebeb97751f678edb99a.js": "/tokenminter/precache-manifest.95a41e0bd2db6ebeb97751f678edb99a.js",
+  "precache-manifest.f3045adaa732d6d33bdf82653431102d.js": "/tokenminter/precache-manifest.f3045adaa732d6d33bdf82653431102d.js",
   "service-worker.js": "/tokenminter/service-worker.js",
   "static/css/main.e09db4f9.chunk.css.map": "/tokenminter/static/css/main.e09db4f9.chunk.css.map"
 }
