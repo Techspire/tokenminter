@@ -1,13 +1,13 @@
 {
   "main.css": "/tokenminter/static/css/main.e09db4f9.chunk.css",
-  "main.js": "/tokenminter/static/js/main.52d9ea1f.chunk.js",
-  "main.js.map": "/tokenminter/static/js/main.52d9ea1f.chunk.js.map",
-  "runtime~main.js": "/tokenminter/static/js/runtime~main.92d3d131.js",
-  "runtime~main.js.map": "/tokenminter/static/js/runtime~main.92d3d131.js.map",
-  "static/js/2.609143d0.chunk.js": "/tokenminter/static/js/2.609143d0.chunk.js",
-  "static/js/2.609143d0.chunk.js.map": "/tokenminter/static/js/2.609143d0.chunk.js.map",
+  "main.js": "/tokenminter/static/js/main.1fb80bff.chunk.js",
+  "main.js.map": "/tokenminter/static/js/main.1fb80bff.chunk.js.map",
+  "runtime~main.js": "/tokenminter/static/js/runtime~main.208d2fd6.js",
+  "runtime~main.js.map": "/tokenminter/static/js/runtime~main.208d2fd6.js.map",
+  "static/js/2.0ec94323.chunk.js": "/tokenminter/static/js/2.0ec94323.chunk.js",
+  "static/js/2.0ec94323.chunk.js.map": "/tokenminter/static/js/2.0ec94323.chunk.js.map",
   "index.html": "/tokenminter/index.html",
-  "precache-manifest.eb21982accb1a41f4f20bf389f53b37a.js": "/tokenminter/precache-manifest.eb21982accb1a41f4f20bf389f53b37a.js",
+  "precache-manifest.29873d2555eea41d18279bb52c5e82f8.js": "/tokenminter/precache-manifest.29873d2555eea41d18279bb52c5e82f8.js",
   "service-worker.js": "/tokenminter/service-worker.js",
   "static/css/main.e09db4f9.chunk.css.map": "/tokenminter/static/css/main.e09db4f9.chunk.css.map"
 }
