@@ -18,20 +18,20 @@ const palettes = {
       dark: '#4b830d',
     },
     // secondary: {
-    //   main: '#ffe082',
-    //   light: '#ffffb3',
-    //   dark: '#caae53',
+    //   main: '#cca300',
+    //   light: '#fff5cc',
+    //   dark: '#cca300',
     // },
   },
-  teal: {
+  orange: {
     primary: {
-      main: '#00838f',
-      light: '#4fb3bf',
-      dark: '#005662',
+      main: '#cca300',
+      light: '#e6b800',
+      dark: '#b38f00',
     },
     secondary: {
-      main: '#ffe082',
-      light: '#ffffb3',
+      main: '#001a33',
+      light: '#cccccc',
       dark: '#caae53',
     },
   },
@@ -39,7 +39,7 @@ const palettes = {
 
 // A theme with custom primary and secondary color.
 const theme = createMuiTheme({
-  palette: palettes.green,
+  palette: palettes.orange,
   typography: {
     useNextVariants: true, // this can be removed with @material-ui 4.0.0
     fontFamily: '"Helvetica", "Arial", sans-serif',
