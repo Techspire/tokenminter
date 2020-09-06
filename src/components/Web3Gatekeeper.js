@@ -23,7 +23,7 @@ const buttonStyle = {
   top: '15px',
   alignSelf: 'center',
   color: '#ffffff',
-  backgroundColor: '#7cb342',
+  backgroundColor: '#cca300',
   fontWeight: 'bold',
 }
 
