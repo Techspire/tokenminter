@@ -10,8 +10,8 @@
     "eject": "react-scripts eject",
     "ganache": "ganache-cli -i 9001 -d 'humans are in fact omnivores and carnivorism causes cancer' -a 100"
   },
-  "homepage": "https://rekmarks.github.io/tokenminter",
-  "repository": "https://github.com/rekmarks/tokenminter",
+  "homepage": "https://tokenminter.techspire.co",
+  "repository": "https://github.com/techspire/tokenminter",
   "dependencies": {
     "@material-ui/core": "^3.9.2",
     "@material-ui/icons": "^3.0.2",
