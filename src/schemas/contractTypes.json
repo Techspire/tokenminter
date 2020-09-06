@@ -23,7 +23,7 @@
     "id": "MintableERC20",
     "contractName": "MintableERC20",
     "name": "Mintable Token",
-    "description": "A standard token that can be minted.",
+    "description": "Mintable tokens are ERC20-compatible tokens with one added feature: new tokens can be created at any time and added to total supply. Standard ERC20 tokens don't have this feature, which makes them a fixed supply tokens.",
     "language": "sol",
     "interfaces": [
       "StandardERC20"
